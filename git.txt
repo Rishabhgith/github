@@ -1,0 +1,12 @@
+1) git --version
+2) create a new repository and make public.
+3) copy https
+4) Create a file in your folder and write some basic introduction about yourself in it.
+5) git init
+6) git add . // Add all files 
+7) git status
+8) git remote add origin "https address"
+9) git commit -m "Initial Commit"
+10) git status
+11) git push -u origin master
+12) Check your github repository
